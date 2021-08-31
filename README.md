@@ -1,5 +1,5 @@
 Hi, I’m @DavidPicc
-My name is David Piccone.
+\nMy name is David Piccone.
 Currently studying Videogame Design in Toulouse Lautrec
 I’m currently learning C# and Unity, but dabbling in Javascript in my free time.
 
